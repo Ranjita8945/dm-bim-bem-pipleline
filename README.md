@@ -21,8 +21,15 @@ Here's the structure I recommend:
 
 # 📸 Screenshots
 
-### 1. Neo4j Graph Database
-![Neo4j Graph](<Screenshot 2026-07-23 153515.png>)
+### 1. Dashboard
+![Dashboard](<dashboard.png>)
+
+### 2. neoj_graph
+[neoj_graph](<neoj_graph.png>)
+
+### 3. output
+[output](<output.png>)
+
 
 ---
 
