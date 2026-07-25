@@ -7,6 +7,23 @@ The **DM-BIM-BEM Pipeline** is an automated framework that transforms Building I
 
 The project demonstrates how BIM data from IFC files can be converted into a graph database, enriched with intelligent relationships, and used as the foundation for energy analysis and future performance-driven design.
 
+For GitHub projects, the best place is right after the "Overview" section and before the "Features" section. This allows visitors to immediately see what your project looks like.
+
+Here's the structure I recommend:
+
+# 🏗️ DM-BIM-BEM Pipeline
+
+## 📌 Overview
+
+(Project description...)
+
+---
+
+# 📸 Screenshots
+
+### 1. Neo4j Graph Database
+![Neo4j Graph](<Screenshot 2026-07-23 153515.png>)
+
 ---
 
 ## 🚀 Features
