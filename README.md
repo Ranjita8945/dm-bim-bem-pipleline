@@ -22,13 +22,13 @@ Here's the structure I recommend:
 # 📸 Screenshots
 
 ### 1. Dashboard
-![Dashboard](<dashboard.png>)
+![Dashboard](<screenshots/dashboard.png>)
 
 ### 2. neoj_graph
-[neoj_graph](<neoj_graph.png>)
+[neoj_graph](<screenshots/neoj_graph.png>)
 
 ### 3. output
-[output](<output.png>)
+[output](<screenshots/output.png>)
 
 
 ---
