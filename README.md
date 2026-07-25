@@ -25,7 +25,7 @@ Here's the structure I recommend:
 ![Dashboard](<screenshots/dashboard.png>)
 
 ### 2. neoj_graph
-[neoj_graph](<screenshots/neoj_graph.png>)
+[neoj_graph](<screenshots/neoj4_graph.png>)
 
 ### 3. output
 [output](<screenshots/output.png>)
